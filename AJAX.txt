@@ -1,0 +1,42 @@
+INTRODUÇÃO AJAX:
+AJAX (Acrônimo de Asynchronos JavaScript And XML) -> Uma metodologia de programação que possibilita a comunicação assíncrona entre front-end e back-end de aplicações Web.
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+O QUE SÃO REQUISIÇÕES SÍNCRONAS E ASSÍNCRONAS:
+REQUISIÇOES SÍNCRONAS -> Realiza uma requisição por vez.
+
+REQUISIÇOES ASSÍNCRONAS -> Realiza uma requisição sem precisar atualizar a pagina.
+
+--------------------------------------------------------------------------------------------------------------------
+
+SELETORES - SELECIONANDO ELEMENTOS HTML PART 1
+
+SELECIONANDO ELEMENTOS POR tag -> $(tag)
+
+SELECIONANDO ELEMENTOS POR classe -> $(.classe)
+
+SELECIONANDO ELEMENTOS POR id -> $(#id)
+
+$ -> Permite selecionar elementos / Permite executar ações da biblioteca jQuery / Permite o acesso aos recursos da biblioteca jQuery
+
+--------------------------------------------------------------------------------------------------------------------
+
+REQUISIÇÕES ASSÍNCRONAS PARTE 2 - ESTADO DA REQUISIÇÃO
+
+XMLHttpRequest
+^
+Event
+^
+ReadyState:
+- 0: request not initialized (requisição não iniciada
+- 1: server connection established (conexão estabelecida)
+- 2: request received (requisição recebida)
+- 3: processing request (processando requisição)
+- 4: request finished and response is ready (requisição finalizada)
+
+--------------------------------------------------------------------------------------------------------------------
+
+XML PARTE 1 - O que é ?
+XML Significa eXtensible Markup Language
